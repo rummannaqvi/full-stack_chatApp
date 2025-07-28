@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: iemafzal/frontend:v1
+        image: rummannaqvi/chatapp-frontend:latest
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
