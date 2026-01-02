@@ -82,7 +82,7 @@ NODE_ENV=production
 git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
 ```
 
-🏗️ Build and Run the Application
+🏗️ Build and Run the Application 
 
 Follow these steps to build and run the application:
 
