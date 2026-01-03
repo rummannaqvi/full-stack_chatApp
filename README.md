@@ -43,7 +43,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 * **Orchestration:** Kubernetes (planned)
 * **Web Server:** Nginx
 * **State Management:** Zustand
-* **Authentication:** JWT
+* **Authentication:** JWT 
 * **Styling Components:** DaisyUI
 
 
@@ -221,6 +221,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
