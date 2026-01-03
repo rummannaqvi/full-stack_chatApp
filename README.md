@@ -95,7 +95,7 @@ http://localhost
 ```
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Getting Started:
 
 Follow these simple steps to get the project up and running on your local Host using docker.
 
@@ -219,6 +219,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
