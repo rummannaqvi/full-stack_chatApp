@@ -12,7 +12,7 @@ Welcome to the **Full Stack Realtime Chat App** project, where we're building a 
 * [Introduction](#introduction)
 * [Features](#features)
 * [Tech Stack](#tech-stack)
-* [Getting Started](#getting-started)
+* [Getting Started](#getting-started) 
 * [Building the Backend](#building-the-backend)
 * [Running the Application](#running-the-application)   
 * [Contributing](#contributing)
@@ -219,6 +219,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
