@@ -25,7 +25,6 @@ This project aims to provide a real-time chat experience that's both scalable an
 
 ## ✨ Features
 
-
 * **Real-time Messaging**: Send and receive messages instantly using Socket.io 
 * **User Authentication & Authorization**: Securely manage user access with JWT 
 * **Scalable & Secure Architecture**: Built to handle large volumes of traffic and data 
