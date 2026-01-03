@@ -137,7 +137,7 @@ docker run -d -p 27017:27017 --name mongo mongo:latest
 ```
 ---
 
-## 🛠️ Building the Backend
+## 🛠️ Building the Backend:
 
 ```bash
 cd backend
@@ -219,6 +219,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
